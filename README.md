@@ -19,7 +19,7 @@ Resized:
 
 ![resized2](https://user-images.githubusercontent.com/60762514/167220130-1fc0affd-7d80-47f4-9da9-6efb2b95d9bc.jpeg)
 
-Final:
+Recolored:
 
 ![avatar2](https://user-images.githubusercontent.com/60762514/167220145-bd809c36-a85a-451f-9227-8ba3f874101d.png)
 
