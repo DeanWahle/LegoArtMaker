@@ -12,10 +12,17 @@ The color count works by looking at the RGB value of a given pixel, and finding 
 Then, the program makes a new matrix using the updates colors, to show what the final version will look like. 
 
 Original:
+
 ![super](https://user-images.githubusercontent.com/60762514/167220110-ae10a301-37ad-4e42-85e4-08d6cc6b4f89.png)
 
 Resized:
+
 ![resized2](https://user-images.githubusercontent.com/60762514/167220130-1fc0affd-7d80-47f4-9da9-6efb2b95d9bc.jpeg)
 
 Final:
+
 ![avatar2](https://user-images.githubusercontent.com/60762514/167220145-bd809c36-a85a-451f-9227-8ba3f874101d.png)
+
+You can use the color count to order the correct number of studs in the correct colors, and the matrix output as a guide on how to fill out each 16x16 square. 
+
+The entire piece is 3x3 squares at 16x16 studs per square.
