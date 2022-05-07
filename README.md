@@ -9,7 +9,7 @@ This program downscales images to 48x48 pixels and provides a color count of eac
 
 The color count works by looking at the RGB value of a given pixel, and finding the minimum difference in its values compared a default list of RBGs for common colors like: black, red, white, etc. 
 
-Then, the program makes a new matrix using the updated colors, to show what the final version will look like. 
+Then, the program makes a new matrix using the updated colors to show what the final version will look like. 
 
 Original:
 
