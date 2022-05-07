@@ -23,6 +23,7 @@ Recolored:
 
 ![avatar2](https://user-images.githubusercontent.com/60762514/167220145-bd809c36-a85a-451f-9227-8ba3f874101d.png)
 
-You can use the color count to order the correct number of studs in the correct colors, and the matrix output as a guide on how to fill out each 16x16 square. 
+You can use the color count as a guide for purchasing the correct number of studs in each color to create your own art pieces at home. 
+The matrix output serves a guide on how to fill out each 16x16 square if you do assemble one yourself. 
 
 The entire piece is 3x3 squares at 16x16 studs per square.
